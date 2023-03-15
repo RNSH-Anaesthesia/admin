@@ -1,6 +1,6 @@
 # RNSA Admin
 
-![Logo](https://drive.google.com/uc?export=view&id=1zX1nCk15vABbR8ZCFz2NGYenViSufF9c/view?usp=share_link)
+![Logo](https://drive.google.com/uc?export=view&id=1zX1nCk15vABbR8ZCFz2NGYenViSufF9c)
 
 
 ## Pipeline
